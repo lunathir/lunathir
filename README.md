@@ -21,8 +21,16 @@ Welcome to my GitHub profile. I'll have to continue working on this more, but I 
 
 ### Current Projects
 I am currently working on:
-- Making a video game for the Sega Megadrive / Genesis (The template I'm using is available, but be warned: it's only 68000 assembly. I might consider a C/C++ variant of it, but not at the moment.)
-- Emulator for the previous, but I'd like to make it accurate enough to play games that can only be played on BlastEm or Exodus or something of the sort.
+- Making a video game for the Sega Megadrive / Genesis
+- Emulator for the previous, but I'd like to make it accurate enough to play games that can only be played on BlastEm or Exodus or something of the sort and fix my problems with current emulators.
+  - BlastEm sucks at pixel perfect but has awesome accuracy
+  - Kega Fusion doesn't have the best emulation, but works, also colors are off
 - Making a website for myself
 - Getting an iPad for art
 - More stuff I can't think of at the moment, but I will update when I remember everything.
+
+<!-- 
+  ┌───────────────────────────────────────────────────────────────────────┐
+  │ Wow                                                                   │
+  └───────────────────────────────────────────────────────────────────────┘
+ -->
