@@ -25,6 +25,8 @@ I am currently working on:
 - Emulator for the previous, but I'd like to make it accurate enough to play games that can only be played on BlastEm or Exodus or something of the sort and fix my problems with current emulators.
   - BlastEm sucks at pixel perfect but has awesome accuracy
   - Kega Fusion doesn't have the best emulation, but works, also colors are off
+  - Retroarch takes a bit long to get into a game
+  - I want to make one for fun, including getting a good YM2612 (including ladder effect and low-pass filter) emulation working
 - Making a website for myself
 - Getting an iPad for art
 - More stuff I can't think of at the moment, but I will update when I remember everything.
