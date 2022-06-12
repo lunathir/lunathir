@@ -28,7 +28,7 @@ I am currently working on:
   - Retroarch takes a bit long to get into a game
   - I want to make one for fun, including getting a good YM2612 (including ladder effect and low-pass filter) emulation working
 - Making a website for myself
-- Getting an iPad for art
+- ~~Getting an iPad for art~~
 - More stuff I can't think of at the moment, but I will update when I remember everything.
 
 <!-- 
