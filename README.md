@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## Lunathir Saelka's profile
 Welcome to my GitHub profile. I'll have to continue working on this more, but I can tell you about a few things about myself:
-- She/her at least slightly primarily, but I don't particularly mind other pronouns.
+- She/her, they/them, it/its primarily, but I don't particularly mind other pronouns.
 
 ### Current Projects
 I am currently working on:
