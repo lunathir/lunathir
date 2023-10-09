@@ -21,6 +21,7 @@ Welcome to my GitHub profile. I'll have to continue working on this more, but I 
 
 ### Current Projects
 I am currently working on:
+- Hopefully moving to the Netherlands in a few years
 - Making a video game for the Sega Megadrive / Genesis
 - Emulator for the previous, but I'd like to make it accurate enough to play games that can only be played on BlastEm or Exodus or something of the sort and fix my problems with current emulators.
   - BlastEm sucks at pixel perfect but has awesome accuracy
